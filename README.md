@@ -1,4 +1,5 @@
 # TrowlLord
+[Download now](https://github.com/MrNice/trowllord-releases/releases)
 
 <img width="1044" height="650" alt="Screenshot 2026-06-16 at 6 27 11 AM" src="https://github.com/user-attachments/assets/e98cc4b0-92a5-4e68-a4e4-601323fd4a1e" />
 
@@ -85,3 +86,5 @@ To check for updates within the application:
 3. Click the **Check for Updates** button to see if a newer version is available for download.
 4. **Confirm download** and
 5. **Restart** the application
+
+[Download now](https://github.com/MrNice/trowllord-releases/releases) (select newest release, zip for your operating system).
