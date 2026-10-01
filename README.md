@@ -1,6 +1,25 @@
 # TrowlLord
 [Download now](https://github.com/MrNice/trowllord-releases/releases)
 
+## 📱 TrowlLord on your phone and tablet (beta)
+<img width="2752" height="2064" alt="TrowlLord login - iPad Pro 13-inch (M5)" src="https://github.com/user-attachments/assets/60ce0d6e-1561-4dcc-b4e2-97222f26f194" />
+
+TrowlLord now runs on **iPhone, iPad and Android**! Same Clan Lord, same characters, now in your pocket. It's built on the same engine as the desktop client, so it talks to the real servers and feels like home.
+
+**Get it:**
+- **iPhone / iPad** — install Apple's free **TestFlight** app, then open: https://testflight.apple.com/join/GtYrcbCg
+- **Android** — open https://appdistribution.firebase.dev/i/271a6ee5e108ce89 and follow the steps to get the tester build
+
+**What's in there:**
+- Touch controls built for Clan Lord: a move stick, a quick wheel for your favorite actions, tap to select players
+- Plug in a game controller, keyboard or mouse if you'd rather play that way
+- Healer mode with a flick-to-target selector, plus moonstone, chain and pull/push buttons
+- Lasty tracking for rangers, with dots over your studies
+- Chat logs in the desktop format, which you can export and import on desktop
+- No account? Tap **Try the demo** and wander Agratis with a demo character
+
+It's a beta, so expect a few rough edges. If something breaks, feels off, or you've got an idea, tell me. Screenshots help a lot. Have fun, and see you in Puddleby! 
+
 <img width="1044" height="650" alt="Screenshot 2026-06-16 at 6 27 11 AM" src="https://github.com/user-attachments/assets/e98cc4b0-92a5-4e68-a4e4-601323fd4a1e" />
 
 
